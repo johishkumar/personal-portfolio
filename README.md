@@ -61,7 +61,6 @@ npm run start
 - **Name:** Johishkumar K C
 - **Email:** johish6383@gmail.com
 - **GitHub:** [@johishkumar](https://github.com/johishkumar)
-- **Repository:** [personal-portfolio](https://github.com/johishkumar/personal-portfolio)
 
 ---
 
