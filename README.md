@@ -8,9 +8,7 @@ An interactive personal portfolio showcasing creative design, video editing, web
 
 🌐 Live Portfolio
 
-Live Website: View My Portfolio
-
-GitHub Repository: personal-portfolio
+Live Website: [Live Portfolio](https://personal-portfolio-1ugo.vercel.app/)
 
 ---
 
